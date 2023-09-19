@@ -4,7 +4,7 @@
     import { auth } from '$lib/firebase/firebase.js';
    import { goto } from '$app/navigation';
   
-   import Button from "$lib/buttons/Button.svelte";
+   import Button from "$lib/buttons/button.svelte";
   
   
    
